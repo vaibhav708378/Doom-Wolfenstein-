@@ -1,3 +1,44 @@
-﻿# Doom-Wolfenstein-
+🧟‍♂️ Doom-Wolfenstein
 
-A fast-paced, retro FPS engine built in [Language] inspired by classic 90s shooters like Wolfenstein 3D and Doom. Features pseudo-3D raycasting, software rendering, and first-person mechanics. Ideal for exploring raycasting algorithms, basic game engines, and 90s style, low-resolution graphics.
+A retro-style FPS game inspired by Doom and Wolfenstein 3D, combining fast-paced combat, maze-like levels, and classic pixel aesthetics. Built as a fun project to recreate the feel of early 90s shooters while experimenting with modern programming techniques.
+
+🎮 Features
+
+🔫 Classic retro FPS gameplay
+🧱 Maze-style levels inspired by Wolfenstein
+👾 Enemy AI with simple combat behavior
+💥 Weapon and shooting mechanics
+🎨 Pixel-style graphics
+🕹️ Keyboard controls for movement and combat
+
+🛠️ Built With
+
+Depending on your implementation, update this section.
+Language: Python
+Graphics: Pygame 
+Game Engine: Custom 
+
+🚀 Future Improvements
+
+🧠 Smarter enemy AI
+🗺️ Procedural level generation
+🎵 Sound effects and music
+💣 More weapons
+🌐 Multiplayer support
+
+🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repo
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
+
+⭐ Acknowledgements
+
+Inspired by classic games:
+Doom (1993)
+Wolfenstein 3D (1992)
+Thanks to the retro FPS community for inspiration.
+
