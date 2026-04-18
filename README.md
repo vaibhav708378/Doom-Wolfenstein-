@@ -46,5 +46,5 @@ Thanks to the retro FPS community for inspiration.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhav708378/Doom-Wolfestine
+   git clone https://github.com/vaibhav708378/Doom-Wolfenstein-.git
 
