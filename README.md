@@ -42,3 +42,9 @@ Doom (1993)
 Wolfenstein 3D (1992)
 Thanks to the retro FPS community for inspiration.
 
+🚀 How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/vaibhav708378/Doom-Wolfestine
+
