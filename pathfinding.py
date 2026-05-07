@@ -45,3 +45,5 @@ class PathFinding:
             for x, col in enumerate(row):
                 if not col:
                     self.graph[(x, y)] = self.graph.get((x, y), []) + self.get_next_nodes(x, y)
+
+                    

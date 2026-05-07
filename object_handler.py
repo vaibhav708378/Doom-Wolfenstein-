@@ -82,3 +82,4 @@ class ObjectHandler:
 
     def add_sprite(self, sprite):
         self.sprite_list.append(sprite)
+        

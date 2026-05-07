@@ -57,3 +57,4 @@ def menu_settings(screen, bg_image, WIDTH, HEIGHT, Button):
             back_button.check_click(event)
 
         clock.tick(60)
+        
